@@ -3,3 +3,6 @@ LinkedIn oauth support for osqa. http://www.osqa.net/
 Keys are entered in the admin panel.
 
 Assumes a linkedin.png logo in media/openid/ 
+
+
+Uses the python linkedin library found here: http://code.google.com/p/python-linkedin/
